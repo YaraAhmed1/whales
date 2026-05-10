@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+venv/
+
+# Database / logs (لو موجودين)
+*.db
+*.log
+
+# IDE
+.vscode/
+.idea/
